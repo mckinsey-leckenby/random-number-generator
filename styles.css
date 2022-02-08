@@ -48,7 +48,7 @@ img {
   width: 40rem;
   border: 1px solid grey;
   padding: 1rem;
-  background-color: lightblue;
+  background-color: rgb(55, 175, 215);
   text-align: center;
   border-radius: 5px
 }
@@ -58,6 +58,7 @@ img {
 }
 .count {
   font-size: 4rem;
+  border: 1px solid white;
 }
 .buttons button {
   padding: 1rem;
